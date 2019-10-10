@@ -1,8 +1,8 @@
 module FancyDance
   
-  modeule InstanceMethods
+#   modeule InstanceMethods
   
   
- end
+# end
   
 end
