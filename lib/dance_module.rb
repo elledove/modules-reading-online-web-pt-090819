@@ -7,4 +7,8 @@ module Dance
     "Look how high I'm jumping!"
   end
   
+  def take_a_bow
+    
+  end
+  
 end
